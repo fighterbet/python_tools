@@ -1,15 +1,15 @@
 ## 为什么要学 Markdown
----
+
 作为一个业余编程爱好者，笔者学 markdown 有以下三个简单的原因：
-1. **要用。**比如本篇文章就是用 markdown 写的，另外，github 上的说明文档也常常是用 markdown 写的，我喜欢用来练习 python 的 jupyter notebook 也会用到一点 markdown。
+1. 要用。比如本篇文章就是用 markdown 写的，另外，github 上的说明文档也常常是用 markdown 写的，我喜欢用来练习 python 的 jupyter notebook 也会用到一点 markdown。
 
-2. **好看。**markdown 写出来的文章很好看（正如本文 ^_^）。
+2. 好看。markdown 写出来的文章很好看。
 
-3. **易上手。**常用的语法不多，所以看完本文你就能上手 markdown。
+3. 易上手。常用的语法不多，所以看完本文你就能上手 markdown。
 
 
 ## Markdown 常用语法
----
+
 注意：以下标记符号通常要紧接一个空格使用。
 
 ### 标题
@@ -129,13 +129,13 @@ print('hello world')
 |\!\[描述文本](图片链接)|插入图片|
 
 ## Markdown 相关工具推荐
----
+
 ### 编辑器
-- **[Atom](https://atom.io/)。**我用的就是这款，感觉不错。
+- [Atom](https://atom.io/)。我用的就是这款，感觉不错。
 
 ![Atom 编辑器](https://upload-images.jianshu.io/upload_images/23208742-842b9dea0d89781b.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
 
-- **[Mou](http://25.io/mou/)。**号称目前最好用的免费 Markdown 编辑器，仅支持苹果操作系统。
+- [Mou](http://25.io/mou/)。号称目前最好用的免费 Markdown 编辑器，仅支持苹果操作系统。
 
 ![Mou 编辑器](https://upload-images.jianshu.io/upload_images/23208742-2f1327cdd537534e.PNG?imageMogr2/auto-orient/strip|imageView2/2/w/1136/format/webp)
 
@@ -145,7 +145,7 @@ print('hello world')
 我用到的图床是「[公益图床](https://sbimg.cn/)」，不算很好，读者可以在下面最后一篇参考资料找找更好用的。
 
 ## 参考资料
----
+
 - 简书：「[Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)」
 - 菜鸟教程：「[Markdown 教程](https://www.runoob.com/markdown/md-tutorial.html)」
 - 官方文档：「[Markdown Guide](https://www.markdownguide.org/)」
