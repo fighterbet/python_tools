@@ -4,4 +4,5 @@
 已更新的部分如下：
 
 - python 安装详细教程
+- Jupyter Notebook 安装配置与使用教程
 - 快速上手 markdown
